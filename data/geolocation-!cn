@@ -3,15 +3,13 @@
 # AI Chat
 include:category-ai-!cn
 
-# Anime, Comics & Games
-include:category-acg
-
 # Advertisment & Analytics
 include:pubmatic
 include:taboola
 
 # Anti-censorship & Anti-GFW & Privacy protection & VPN tools
 include:category-anticensorship
+include:category-proxy-tunnels
 
 # Art & Design & Photography
 include:artstation
@@ -31,6 +29,8 @@ include:typenetwork
 include:typography
 include:webtype
 
+bunka.go.jp
+
 # Automobile
 include:bmw
 include:bridgestone
@@ -47,17 +47,10 @@ include:stripe
 include:visa
 
 # CDN companies & Services
-include:akamai
+include:category-cdn-!cn
+
 include:awempire
-include:cdn77
-include:cloudflare
-include:fastly
-include:imgix
-include:limelight
-include:pagecdn
-include:quantil
 include:scaleflex
-include:stackpath
 include:wistia
 
 # Certificate authorities
@@ -161,6 +154,7 @@ include:category-enhance-gaming
 include:category-mobile-repair
 include:category-ntp
 include:category-password-management
+include:category-web-archive
 include:decryptipastore # iOS
 
 include:rsshub
@@ -205,7 +199,6 @@ include:jwplayer
 include:kindle4rss
 include:kodi
 include:liberapay
-include:linguee
 include:localizejs
 include:madshi
 include:mapbox
@@ -244,7 +237,6 @@ include:trello
 include:tumblr
 include:tutanota
 include:vercel
-include:webflow
 include:wix
 include:wordpress
 include:zendesk
@@ -252,22 +244,31 @@ include:zeplin
 include:zoho
 include:zoom
 
-biliplus.com # BiliPlus
-
-# Graphing for Science and Engineering
-originlab.com
-
-# Online LaTeX Editor
-cloudlatex.io
-overleaf.com
-
-# Aurora Open Source Software (https://gitlab.com/AuroraOSS)
+## Aurora Open Source Software (https://gitlab.com/AuroraOSS)
 auroraoss.com
-
-# CookiePro, provides cookies and tracking
+## BiliPlus
+biliplus.com
+## CataBoom
+cataboom.com
+## Consent Management Platforms / Cookie service
+consentpro.com
 cookiepro.com
 cookielaw.org
 onetrust.com
+osano.com
+usercentrics.eu
+## Greasy Fork
+greasyfork.org
+## Online LaTeX Editor
+cloudlatex.io
+overleaf.com
+## Translator & Dictionary
+include:linguee
+collinsdictionary.com
+ldoceonline.com
+immersivetranslate.com # 沉浸式翻译 (国际版)
+## OriginLab (Graphing for Science and Engineering)
+originlab.com
 
 # Software development
 include:category-dev
@@ -282,9 +283,8 @@ include:demonoid
 include:nyaa
 include:piratebay
 include:rarbg
-
-# User scripts
-greasyfork.org
+dmhy.org
+rutor.info
 
 # VPN services
 include:category-vpnservices
@@ -319,6 +319,3 @@ include:tsquare
 include:windy
 include:xdty
 include:xingrz
-
-# 沉浸式翻译
-immersivetranslate.com

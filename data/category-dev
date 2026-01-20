@@ -70,10 +70,7 @@ apache.org
 artixlinux.org
 atom.io
 badgen.net
-
-# Bitvise official website.
 bitvise.com
-
 cdnjs.com
 centos.org
 chocolatey.org
@@ -94,6 +91,7 @@ getcomposer.org
 getzola.org
 git-scm.com
 gnu.org
+godbolt.org
 
 # PuTTY and some software official websites.
 greenend.org.uk
@@ -112,13 +110,13 @@ lua.org
 macports.org
 mariadb.org
 mingw.org
-
-# Mobatek official website.
 mobatek.net
-
 mpv.io
 mysql.com
 neovim.io
+netfilter.org
+newpipe.net
+nftables.org
 nixos.org
 nodesource.com
 notepad-plus-plus.org
@@ -129,11 +127,8 @@ packagist.org
 pcre.org
 phantomjs.org
 php.net
-
-# PuTTY unofficial website, owned by Bitvise.
-putty.org
-
 postgresql.org
+putty.org
 r-project.org
 raspberrypi.org
 raspbian.org
@@ -145,15 +140,15 @@ shellcheck.net
 shields.io
 sqlite.org
 sublimetext.com
-
-# Termius official website.
+tampermonkey.net
 termius.com
-
 unpkg.com
 videojs.com
 videolan.org
 wapm.io
 wasmer.io
+webflow.com
+weblate.org
 wireshark.org
 x.org
 xposed.info

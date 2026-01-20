@@ -7,10 +7,12 @@ include:elevenlabs
 include:google-deepmind
 include:groq
 include:huggingface
+include:liveperson
 include:openai
 include:perplexity
 include:poe
 include:xai
+include:youmind
 
 # CodeRabbit
 coderabbit.ai
@@ -29,7 +31,9 @@ copilot.microsoft.com
 devin.ai
 diabrowser.com
 dify.ai
+duck.ai
 gateway.ai.cloudflare.com
+kiro.dev
 meta.ai
 mistral.ai
 openart.ai

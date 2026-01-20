@@ -12,6 +12,7 @@ include:atom-data-ads
 include:baidu-ads
 include:bytedance-ads
 include:category-ads-ir
+include:cctv @ads
 include:clearbit-ads
 include:dmm-ads
 include:duolingo-ads
@@ -29,6 +30,7 @@ include:kuaishou-ads
 include:kugou-ads
 include:letv-ads
 include:meta-ads
+include:microsoft-ads
 include:mopub-ads
 include:mxplayer-ads
 include:netease-ads
@@ -36,11 +38,11 @@ include:newrelic-ads
 include:ogury-ads
 include:ookla-speedtest-ads
 include:openx-ads
+include:picacg @ads
 include:pocoiq-ads
 include:pubmatic-ads
 include:qihoo360-ads
 include:segment-ads
-include:sensorsdata-ads
 include:sina-ads
 include:sohu-ads
 include:spotify-ads
@@ -49,6 +51,7 @@ include:tagtic-ads
 include:tappx-ads
 include:television-ads
 include:tencent-ads
+include:tendcloud @ads
 include:uberads-ads
 include:umeng-ads
 include:unity-ads
@@ -56,7 +59,7 @@ include:xhamster-ads
 include:xiaomi-ads
 include:ximalaya-ads
 include:yahoo-ads
-include:youku-ads
+include:zhihu @ads
 
 # Other domains for ads serving
 51.la
@@ -70,6 +73,7 @@ adbutter.net
 addthisedge.com
 ads.trafficjunky.net
 ads.wteam.xyz
+adservice.sigmob.cn
 adtechus.com
 adtrue.com
 adxprtz.com
@@ -189,7 +193,18 @@ reachmax.cn
 # 热云数据
 reyun.com
 
+# 神策数据
+static.sensorsdata.cn
+
 # 诸葛io
 zhugeapi.com
 zhugeapi.net
 zhugeio.com
+
+# 车来了
+atrace.chelaile.net.cn
+logs.chelaile.net.cn
+
+# 航旅纵横
+analytics.umetrip.com
+sensors.umetrip.com.cn
